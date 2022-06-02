@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/My_file /tmp/Elif_ym /tmp/u .
+mv [[:upper:]]* /tmp/u

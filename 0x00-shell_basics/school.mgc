@@ -1,2 +1,2 @@
 #!/bin/bash
-magic$ School --mime-magic -m school.mgc *
+SCHOOLSchool -C -m school.mgc

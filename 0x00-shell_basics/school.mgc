@@ -1,2 +1,2 @@
 #!/bin/bash
-SCHOOLSchool -C -m school.mgc
+SCHOOLSchool -dataSchoolroot
